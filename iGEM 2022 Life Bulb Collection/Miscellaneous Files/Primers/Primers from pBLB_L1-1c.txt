@@ -1,0 +1,1 @@
+PlacIQ Rev	gaagacaatgccgaattcg	19-mer	Anneals at 67C with pICH477XX Fwd	47% GC	5845.9 Da	Binds at: 4349 -> 4367

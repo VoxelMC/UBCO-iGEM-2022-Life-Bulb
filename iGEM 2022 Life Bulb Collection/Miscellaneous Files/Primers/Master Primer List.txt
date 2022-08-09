@@ -1,0 +1,4 @@
+nnLuz Fwd	ATGCGGATCAACATTAGCTTG	21-mer	Annealing at 67o C Paired with pAGM9121 Rev Insert Flank	43% GC	6445.3 Da	Binds at: 4455 -> 4475
+pICH Level 1 Fwd	aaaccacttcgtgcagaagac	21-mer		48% GC	6408.2 Da	Binds at: 11 <- 31
+pICH Level 1 Rev	cccactctgtgaagacaa	18-mer		50% GC	5452.6 Da	Binds at: 4339 -> 4356
+PlacIQ Rev	gaagacaatgccgaattcg	19-mer	Anneals at 67C with pICH477XX Fwd	47% GC	5845.9 Da	Binds at: 4349 -> 4367
