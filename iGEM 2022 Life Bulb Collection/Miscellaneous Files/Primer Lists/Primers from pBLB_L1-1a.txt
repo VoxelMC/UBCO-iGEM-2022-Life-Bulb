@@ -1,0 +1,1 @@
+PBAD Rev	ggagaagaaaccaattgtcc	20-mer	Pairwise Annealing with Forward Primer: pCAT.000 - 65 °C pCAT.015 - 66 °C pICH477XX - 66 °C	45% GC	6159.1 Da	Binds at: 4373 -> 4392

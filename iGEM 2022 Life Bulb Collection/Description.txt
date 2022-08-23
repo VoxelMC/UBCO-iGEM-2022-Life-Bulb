@@ -1,0 +1,3 @@
+This is the SnapGene DNA collection for UBCO iGEM's 2022 project, "Life Bulb".
+
+This collection contains all parts used for constructs, simulations for PCR gels, and final constructs themselves.

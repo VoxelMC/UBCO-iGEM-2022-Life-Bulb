@@ -1,0 +1,1 @@
+PlacIQ  Rev	GGAGACACCATCGAATGGT	19-mer		53% GC	5861.9 Da	Binds at: 2234 -> 2252
